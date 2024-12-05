@@ -1,0 +1,55 @@
+body {
+    background-color: #e0f7fa; /* Light teal background */
+    font-family: Arial, sans-serif;
+    color: #000000; /* Black text */
+    margin: 0;
+    padding: 0;
+  }
+  
+  table {
+    margin: 20px auto;
+    width: 80%;
+    border-collapse: collapse; /* Ensures no gaps between table cells */
+    background-color: #f0f0f0; /* Light gray table background */
+    border: 2px solid #000000; /* Black border around the table */
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border: 2px solid #000000; /* Black border between rows and columns */
+  }
+  
+  th {
+    background-color: #00796b; /* Dark teal for headers */
+    color: #ffffff; /* White text for headers */
+  }
+  
+  td {
+    background-color: #ffffff; /* White background for cells */
+  }
+  
+  a {
+    color: #00796b; /* Dark teal for links */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #004d40; /* Darker teal on hover */
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #00796b; /* Dark teal for headings */
+  }
+  
+  img {
+    max-width: 100px; /* Sets a max width for images */
+    display: block;
+    margin: 0 auto; /* Centers the image */
+    border: 2px solid #000000; /* Black border around the image */
+    border-radius: 5px; /* Rounded corners for images */
+  }
+  
+  
